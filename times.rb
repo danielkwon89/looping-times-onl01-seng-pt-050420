@@ -5,7 +5,8 @@
 #end
 
 def method_name
-  
+  7.times do
+  end
 end
 
 
